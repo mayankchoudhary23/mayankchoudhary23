@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mayank Choudhary and I'm a Data Scientist, from New Jersey 🇺🇸</h2>
+<h2 align="left">Hi 👋! My name is Mayank Choudhary and I'm a Data Analyst, from New Jersey 🇺🇸</h2>
 
 ###
 
