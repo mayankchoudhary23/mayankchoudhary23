@@ -2,7 +2,7 @@
 
 I am a Data Science graduate student at **Stevens Institute of Technology** with hands-on experience in data analysis, KPI reporting, and dashboard development.
 
-I specialize in transforming raw data into actionable insights using SQL, Python, and visualization tools (Tableau, Power BI). My work spans operational analytics, time series forecasting, and ETL pipeline engineering — with a strong focus on driving data-informed decisions across business and operations teams.
+I specialize in transforming raw data into actionable insights using SQL, Python, and visualization tools (Tableau, Power BI). My work spans operational analytics, time series forecasting, and ETL pipeline engineering, with a strong focus on driving data-informed decisions across business and operations teams.
 
 ---
 
