@@ -8,26 +8,51 @@ I specialize in transforming raw data into actionable insights using SQL, Python
 
 ## 🛠️ Technical Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages & Querying**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Data & BI Tools**
+**Data Visualization & BI**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
-**Databases & Cloud**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Analytics & Statistics**
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-FF6F00?style=flat&logo=scipy&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-00ACC1?style=flat&logo=pandas&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-8E24AA?style=flat&logo=numpy&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-E53935?style=flat&logo=python&logoColor=white)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-43A047?style=flat&logo=scipy&logoColor=white)
 
-**Libraries & Frameworks**
+**Reporting & Dashboards**
+![KPI Dashboards](https://img.shields.io/badge/KPI%20Dashboards-F4511E?style=flat&logo=googleanalytics&logoColor=white)
+![Reporting Automation](https://img.shields.io/badge/Reporting%20Automation-0288D1?style=flat&logo=powerautomate&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-6D4C41?style=flat&logo=confluence&logoColor=white)
+
+**ETL & Data Engineering**
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-546E7A?style=flat&logo=apacheairflow&logoColor=white)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-00897B?style=flat&logo=pandas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud Platforms**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Soft Skills**
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-7B1FA2?style=flat&logo=microsoftteams&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F57C00?style=flat&logo=thinkific&logoColor=white)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-00796B?style=flat&logo=buffer&logoColor=white)
 
 ---
 
