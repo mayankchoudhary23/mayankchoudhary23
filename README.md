@@ -56,31 +56,6 @@ I specialize in transforming raw data into actionable insights using SQL, Python
 
 ---
 
-## 💼 Work Experience
-
-**Operations Data Analyst | Stevens Institute of Technology**
-*Sep 2024 – Present | Hoboken, New Jersey*
-
-- Analyzed 5,000+ monthly operational records using Excel (PivotTables, Power Query) to identify demand trends and seasonality, optimizing staffing allocation and reducing peak-hour congestion by 15%.
-- Developed automated KPI dashboards tracking facility utilization, participation, and equipment turnover metrics, reducing weekly reporting time by 30%.
-- Performed data cleaning, validation, and variance analysis across multi-source datasets, identifying utilization gaps and improving facility capacity usage by 12%.
-
-**Quality Analyst | Innovalance Learning System Pvt. Ltd.**
-*Jan 2024 – Jun 2024*
-
-- Conducted statistical validation and regression diagnostics across 5+ analytical projects using Python and R, improving reporting accuracy by 15%.
-- Designed data validation and anomaly detection checks using Python and SQL, reducing data errors by 20%.
-- Collaborated with stakeholders to standardize internal QA review frameworks, improving reproducibility and confidence in reported insights.
-
-**Data Science Intern | Zomato**
-*Aug 2022 – Jan 2023*
-
-- Queried and analyzed multi-million–row transactional datasets using SQL to identify delivery bottlenecks, improving order fulfillment efficiency by 10%.
-- Built and automated Power BI dashboards tracking 15+ operational KPIs, reducing manual reporting effort by 25%.
-- Conducted A/B testing and performance analysis on delivery optimization initiatives, reducing average delays by 8%.
-
----
-
 ## 🚀 Projects
 
 **U.S. Gig Economy Workforce Analysis Dashboard** *(Sep 2025 – Dec 2025)*
